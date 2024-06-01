@@ -17,3 +17,200 @@
 
   100%
     transform: translateY(0px)
+  
+.titulo-principal__numero span
+  color: $color-sistema-texto
+.bg
+  &--1
+    background-color: $color-primario !important
+    &-claro
+      background-color: #DCCCEC !important
+    &-claro2
+      background-color: #C1A9D9 !important
+  &--2
+    background-color: $color-secundario !important
+    &-claro
+      background-color: #99EBF7 !important
+    &-claro-2
+      background-color: #CCF5FB !important
+    &-claro-3
+      background-color: #99EBF7 !important
+  &--3
+    background-color: $color-acento-contenido !important
+    &-claro
+      background-color: #D5FFF2 !important
+    &-claro-2
+      background-color: #EEFFFA !important
+  &--4
+    background-color: $color-acento-botones !important
+    &-claro
+      background-color: #FFECA3 !important
+.color
+  &--1
+    color: $color-primario !important
+    &-claro
+      color: lighten($color-primario, 30% ) !important
+  &--2
+    color: $color-secundario !important
+    &-claro
+      color: lighten($color-secundario, 30% ) !important
+  &--3
+    color: $color-acento-contenido !important
+    &-claro
+      color: lighten($color-acento-contenido, 40% ) !important
+  &--4
+    color: $color-acento-botones !important
+    &-claro
+      color: lighten($color-acento-botones, 30% ) !important
+.contenedor
+  border-radius: 100px 0px 100px 0px
+  min-height: 189px
+  @media (min-width: $bp-min-lg)
+    margin-top: 60px !important
+    margin-bottom: 60px !important
+  position: relative
+  .avatar
+    display: flex
+    img
+      margin: 0 auto
+      width: 200px !important
+      display: none
+      @media (max-width: $bp-max-lg)
+        display: block
+  .contenedor-img
+    &__1
+      position: absolute
+      top: 70px
+      transform: translateY(-30%)
+    &__2
+      position: absolute
+      bottom: 0
+    &__3
+      position: absolute
+      bottom: 0
+    &__4
+      position: absolute
+      bottom: 0
+      right: 30px
+    &__5
+      position: absolute
+      bottom: -20px
+      right: 80px
+    &__6
+      position: absolute
+      bottom: -20px
+      left: 0
+    &__7
+      position: absolute
+      bottom: -50px
+      left: 0
+    &__8
+      position: absolute
+      bottom: -100px
+      left: 0
+    &__8
+      position: absolute
+      bottom: -100px
+      left: 0
+    @media (max-width: $bp-max-lg)
+      &__1, &__2, &__3, &__4, &__5, &__6, &__7, &__8, &__9, 
+        display: none
+.texto-adorno
+  position: relative
+  &::after
+    position: absolute
+    content: url(../assets/curso/play-icon.svg)
+    width: 114px
+    height: 30px
+    bottom: -30px
+    left: 0
+  @media (min-width: $bp-max-lg)
+    &__1
+    &__2
+      position: absolute
+      top: -80px
+      right: 80px
+      width: 50%
+    &__3
+      position: absolute
+      top: -80px
+      right: 80px
+      width: 60%
+    &__4
+      position: absolute
+      top: -80px
+      right: 60px
+      width: 55%
+    &__5
+      position: absolute
+      top: -40px
+      left: 50px
+      width: 70%
+    &__6
+      position: absolute
+      bottom: 20px
+      left: 100px
+      width: 70%
+    &__7
+      position: absolute
+      bottom: 0
+      right: 50px
+      width: 60%
+    &__9
+      position: absolute
+      bottom: 80px
+      right: 70px
+      width: 60%
+.lista-ol--cuadro__vineta
+  color: $color-sistema-texto
+  font-size: 20px
+  font-weight: bold
+  margin-right: 10px
+.bloque-texto-g__img
+  background-color: #E0DCE4
+a.boton
+  &:hover
+    .fas.fa-link
+      color: $color-acento-contenido
+  .fas.fa-link
+    background-color: $color-sistema-texto
+    color: $white
+.tarjeta--gris
+  background-color: #E8F0F8
+.tarjeta--verde-claro
+  background-color: #E6FFF8 
+.img-infografica__card
+  min-width: 600px !important
+.morado
+  &__1
+    background-color: #E2E0F5
+  &__2
+    background-color: #D3C7EC
+  &__3
+    background-color: #C2AEE3
+  &__4
+    background-color: #B296D9
+  &__5
+    background-color: #A17CD0
+  &__6
+    background-color: #9163C6
+  &__7
+    background-color: #804ABD
+  &__8
+    background-color: #7032B3
+  &__9
+    background-color: #6018AA
+  &__10
+    background-color: #5000A1
+.m-additional
+  @media (min-width: $bp-min-lg)
+    margin-top: 160px !important
+    min-height: 240px !important
+.m-additional2
+  @media (min-width: $bp-min-lg)
+    margin-top: 200px !important
+    margin-bottom: 50px !important
+.m-additional3 
+  @media (min-width: $bp-min-lg)
+    margin-top: 200px !important
+    margin-bottom: 50px !important

@@ -1,17 +1,22 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo: 'Perfiles digitales en comunidades en línea',
+    descripcionCurso:
+      'La  tecnología y sus usos intervienen con fuerza en el diario vivir, evidenciado en el crecimiento del consumo y acceso a Internet y en los dispositivos móviles, asimismo el uso de las redes sociales y las herramientas de colaboración en línea. De ahí la importancia de usar ética y responsablemente estas herramientas para una experiencia segura y protegida.',
+    imagenBannerPrincipal: require('@/assets/curso/banner-principal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/banner-principal-decorativo-1.png'),
       },
       {
         clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        imagen: require('@/assets/curso/banner-principal-decorativo-2.png'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/banner-principal-decorativo-3.png'),
       },
     ],
   },
@@ -31,27 +36,75 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Redes sociales',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Tipos de redes sociales',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Usos de las redes sociales',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Creación de perfiles públicos y privados ',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Configuración y seguridad de redes sociales',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Grupos y comunidades digitales',
+            hash: 't_1_5',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Cuidados y recomendaciones en redes sociales',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Comportamientos en línea',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Normas de comportamiento',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Normas para chat, foros y redes sociales',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Normas para correos electrónicos',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: '<i>Marketplace</i>, centros comerciales en línea',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Perfiles empresariales y <i>fanpage</i>',
         desarrolloContenidos: true,
       },
     ],
@@ -102,32 +155,72 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Usos de las redes sociales',
+      referencia:
+        'Oficina de Seguridad del Internauta. (2019). <em>¿Hacemos buen uso de las redes sociales?</em> [video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=WMEk-bua9vA',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
-    },
-  ],
-  glosario: [
-    {
-      termino: 'Término',
-      significado: 'Texto de la definición',
-    },
-    {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      tema: '<em>Marketplace</em>, centros comerciales en línea ',
+      referencia:
+        'Rios Pira, M. (2021). <em>Diferencias y beneficios de marketplace y ecommerce</em> [video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=nybuznUxmL4  ',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Jaramillo, O. (2016). Redes sociales: los límites de lo público y lo privado. ',
+      link:
+        'https://www.eleconomistaamerica.co/telecomunicacion-tecnologia-cl/noticias/7790793/08/16/Redes-sociales-los-limites-de-lo-publico-y-lo-privado.html ',
+    },
+    {
+      referencia:
+        'Pachter, B. (2010). <i>The Essentials of Business Etiquette: How to Greet, Eat, and Tweet Your Way to Success</i>. Bárbara Pachter.',
       link: '',
+    },
+    {
+      referencia: 'Sanz, C. (2005). Tipos de comunidad. ',
+      link: 'https://ejemplos.net/tipos-de-comunidad/',
+    },
+  ],
+  glosario: [
+    {
+      termino: 'Amenaza',
+      significado:
+        'cualquier evento que puede afectar los activos de información y se relaciona, principalmente, con recursos humanos, eventos naturales o fallas técnicas.',
+    },
+    {
+      termino: 'Chat',
+      significado:
+        'son servicios de IM o mensajería instantánea que permiten la interacción entre dos o más personas en tiempo real compartiendo textos, imágenes o videos.',
+    },
+    {
+      termino: '<em>Fanpage</em>',
+      significado:
+        'página de <i>fans</i> o seguidores en la red social de Facebook donde se posiciona una marca o una empresa.',
+    },
+    {
+      termino: 'Foro',
+      significado:
+        'plataforma generalmente <i>web</i> donde las personas ingresan, se registran y pueden intercambiar ideas sobre temas de interés.',
+    },
+    {
+      termino: 'Perfil',
+      significado:
+        'conjunto de características o preferencias que identifican a una persona en una plataforma tecnológica.',
+    },
+    {
+      termino: 'Red social',
+      significado:
+        'las redes sociales son estructuras formadas en internet por personas u organizaciones que se conectan a partir de intereses o valores comunes.',
+    },
+    {
+      termino: 'Vulnerabilidad',
+      significado:
+        'es debilidad o fallo en un sistema de información que pone en riesgo la seguridad de la información pudiendo permitir que un atacante pueda comprometer la integridad, disponibilidad o confidencialidad de la misma.',
     },
   ],
   creditos: [
