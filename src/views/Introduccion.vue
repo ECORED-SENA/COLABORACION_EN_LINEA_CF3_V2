@@ -23,7 +23,7 @@
                   |  Your browser does not support the audio tag.
     .row.mb-5
       .col-lg-7(data-aos='fade-right')
-        p.mb-5 En este módulo se estudiarán los conceptos sobre:
+        p.mb-5 En este componente se estudiarán los siguientes conceptos:
         ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta
@@ -37,7 +37,7 @@
             .lista-ol--cuadro__vineta
               span 3
             | La importancia de hacer un uso seguro, ético y responsable de estos canales de comunicación. 
-        p.mb-5 A menudo se presentan nuevas y más modernas aplicaciones que van desde el apoyo laboral hasta el entretenimiento, sin dejar de lado la vida personal y el comercio electrónico, este último, junto con la competencia social de las personas en los niveles digitales, ha facilitado el crecimiento exponencial de los canales de comunicación mediados por internet.
+        p.mb-5 A menudo se presentan nuevas y modernas aplicaciones que van desde el apoyo laboral hasta el entretenimiento, sin dejar de lado la vida personal y el comercio electrónico, este último, junto con la competencia social de las personas en los niveles digitales, ha facilitado el crecimiento exponencial de los canales de comunicación mediados por Internet.
       .col-lg-5(data-aos='fade-left'): img(src='@/assets/curso/2.jpg')
     p.mb-5 En la actualidad es frecuente encontrar relaciones de amistad entre personas que no se han visto de manera física en ningún momento, pero que se comunican a diario así como interacciones serias entre empresarios y clientes potenciales que, probablemente, no están en la misma ciudad, ni posición geográfica, es por eso que este componente formativo centra su atención en esa comunicación, siendo de vital importancia darle buen uso para obtener el mayor provecho de los canales digitales y manteniendo siempre el mejor comportamiento en línea.
     

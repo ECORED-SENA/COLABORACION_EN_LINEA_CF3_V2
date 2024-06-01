@@ -23,7 +23,7 @@
               img(src='@/assets/curso/51.jpg', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
             h4 No aceptar contactos desconocidos
-            p Aceptar contactos desconocidos incrementa las posibilidades de recibir mensajes spam o mensajes con <i>links</i> a sitios fraudulentos o con contenido malicioso.
+            p Aceptar contactos desconocidos incrementa las posibilidades de recibir mensajes #[em spam] o mensajes con #[em links] a sitios fraudulentos o con contenido malicioso.
         .row(titulo="3")
           .col-md-5
             figure
@@ -36,8 +36,8 @@
             figure
               img(src='@/assets/curso/53.jpg', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
-            h4 Reportar cualquier caso de spam o abuso
-            p Es importante reportar los mensajes spam al proveedor de redes sociales, pues esto ayudará a prevenir que se sigan multiplicando estos ataques utilizando una misma cuenta.
+            h4 Reportar cualquier caso de #[em spam] o abuso
+            p Es importante reportar los mensajes #[em spam] al proveedor de redes sociales, esto ayudará a prevenir que se sigan multiplicando estos ataques utilizando una misma cuenta.
         .row(titulo="5")
           .col-md-5
             figure
@@ -51,14 +51,14 @@
               img(src='@/assets/curso/55.jpg', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
             h4 Cerrar la sesión
-            p Cuando se termine de utilizar el servicio que elija, se debe cerrar la sesión inclusive si está en un dispositivo de trabajo personal.
+            p Cuando se termine de utilizar el servicio que elija, se debe cerrar la sesión, inclusive si está en un dispositivo de trabajo personal.
         .row(titulo="7")
           .col-md-5
             figure
               img(src='@/assets/curso/56.jpg', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
             h4 Mantener actualizado el navegador
-            p Esto permitirá estar protegido contra ataques que aprovechen fallas en el navegador de internet.
+            p Esto permitirá estar protegido contra ataques que aprovechen fallas en el navegador de Internet.
         .row(titulo="8")
           .col-md-5
             figure
@@ -79,7 +79,7 @@
               img(src='@/assets/curso/59.jpg', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
             h4 Doble autenticación
-            p Si es posible, implementar una doble autenticación. Algunos servicios como Facebook y Twitter ofrecen una autenticación de dos factores como una medida de seguridad. Normalmente, para iniciar sesión en un servicio, ingresamos una contraseña, que es lo común cuando utilizamos una red social. Al habilitar una autenticación de dos factores, además de una clave, se introduce un dato que tiene solo el usuario, generalmente en forma de un número generado aleatoriamente, o token que puede enviarse al dispositivo móvil a través de un SMS, o bien, se generan números aleatorios dentro de los servicios de la aplicación móvil. De esta manera, hace más difícil que alguien entre a nuestra cuenta porque se necesitaría el token o el número secreto.
+            p Si es posible, implementar una doble autenticación. Algunos servicios como Facebook y Twitter ofrecen una autenticación de dos factores como una medida de seguridad. Normalmente, para iniciar sesión en un servicio, ingresamos una contraseña, que es lo común cuando utilizamos una red social. Al habilitar una autenticación de dos factores, además de una clave, se introduce un dato que tiene solo el usuario, generalmente en forma de un número generado aleatoriamente, o #[em token], que puede enviarse al dispositivo móvil a través de un SMS, o bien, se generan números aleatorios dentro de los servicios de la aplicación móvil. De esta manera, hace más difícil que alguien entre a nuestra cuenta, porque se necesitaría el #[em token] o el número secreto.
         .row(titulo="11")
           .col-md-5
             figure

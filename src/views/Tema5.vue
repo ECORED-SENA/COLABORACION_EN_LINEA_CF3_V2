@@ -9,11 +9,10 @@
     
     .row.mb-5
       .col-lg-7(data-aos="fade-right")
-        p Cuándo se es comerciante o emprendedor y se desea ingresar en el mundo del <i>marketing</i> digital o el <i>social media</i> surge la pregunta: ¿cómo poder visibilizar mejor el negocio? O, 
-          b ¿cómo se puede ingresar al mundo digital y aprovechar las herramientas tecnológicas actuales como las redes sociales para impulsar el crecimiento y conseguir más clientes para mis productos o servicios?
+        p Cuando se es comerciante o emprendedor y se desea ingresar en el mundo del #[em marketing] digital o el #[em social media] surge la pregunta: ¿cómo poder visibilizar mejor el negocio? O, #[strong ¿cómo se puede ingresar al mundo digital y aprovechar las herramientas tecnológicas actuales como las redes sociales para impulsar el crecimiento y conseguir más clientes para mis productos o servicios?]
           br
           br
-          |Es acá donde una red social como Facebook cobra gran importancia, porque en los últimos años a través de actualizaciones y mejoras constantes, ha ido dando un giro importante a su plataforma y pasó de ser una plataforma que permite la interacción y el encuentro entre familiares y amigos a cada vez ser más usada desde el punto de vista del <i>marketing</i> digital y el <i>social media</i>.
+          |Es acá donde una red social como Facebook cobra gran importancia, porque en los últimos años a través de actualizaciones y mejoras constantes, ha ido dando un giro importante a su plataforma y pasó de ser una plataforma que permite la interacción y el encuentro entre familiares y amigos, a cada vez ser más usada desde el punto de vista del <i>marketing</i> digital y el <i>social media</i>.
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/96.jpg')
     .contenedor.bg--2-claro.p-5.my-5(data-aos="zoom-in-up").m-additional3
         .avatar: img(src='@/assets/curso/avatar1.png', alt='Texto que describa la imagen' style='width: 582px')
@@ -47,7 +46,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/0tWJb1kXnfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    h3(data-aos="fade-right") Diferencias entre perfiles empresariales y fanpage
+    h3(data-aos="fade-right") Diferencias entre perfiles empresariales y #[em fanpage]
     p.mb-5 Varias redes tienen una diferenciación entre sus perfiles personales y empresariales, a continuación, se encuentra una de las redes más famosas y se evidencia con claridad esta diferenciación:
     figure.mb-5
       .video
@@ -72,7 +71,7 @@
             p.mb-3 Las páginas de fans de Facebook son una cuenta con un propósito comercial que representa a una marca, compañía u organización.
               br
               br
-              |Es similar a un perfil de Facebook, pero ofrece herramientas y funcionalidades propias del marketing digital que garantiza conocer las interacciones, alcance y cantidad de personas que son alcanzadas, con las publicaciones hechas y siguiendo una estrategia comercial.
+              |Es similar a un perfil de Facebook, pero ofrece herramientas y funcionalidades propias del <i>marketing</i> digital que garantiza conocer las interacciones, alcance y cantidad de personas que son alcanzadas con las publicaciones hechas y siguiendo una estrategia comercial.
 
             .tarjeta.tarjeta--am.p-4
               p.mb-0 Estas páginas son estupendas para generar seguidores en línea, porque no están limitadas a la cantidad de solicitudes de amistad. En cambio, los usuarios solo tienen que hacer clic en el botón “Me gusta” para comenzar a recibir las actualizaciones en su <i>feed</i> de noticias.
@@ -83,7 +82,7 @@
           img(src="@/assets/curso/cta.svg")
 
         .col-md.col-lg-6
-          h3 Scaperoom 3
+          h3 #[em Scaperoom] 3
           p.mb-4 Si todo va bien haz llegado al final del reto propuesto pero antes de ganar tu premio solo queda la fase final que se encuentra en este nuevo video, si lo logras descubrirás la clave que desbloquea el premio. Solo nos queda desearte éxitos...
           
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/Scaperoom3/story.html')" target="_blank" type="application/pdf")

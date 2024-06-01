@@ -7,7 +7,7 @@
         span 4
       h1 <i>Marketplace</i>, centros comerciales en línea
     
-    p.mb-5 La popularización y masificación de las tecnologías de la información y las comunicaciones en todos los campos y aspectos de la cotidianidad, ha hecho que el comercio tenga un giro que lo enfoca cada vez con mayor utilización de la tecnología y la internet como el puente para acceder a la compra y venta de productos y servicios en línea; inicialmente se popularizó y logró gran aceptación e impacto el comercio electrónico y las tiendas en línea, donde un fabricante o empresa ofrece la venta de sus productos facilitando al cliente diferentes opciones de pago y envío del producto o servicio adquirido.         
+    p.mb-5 La popularización y masificación de las tecnologías de la información y las comunicaciones en todos los campos y aspectos de la cotidianidad, ha hecho que el comercio tenga un giro que lo enfoca cada vez con mayor utilización de la tecnología y la Internet como el puente para acceder a la compra y venta de productos y servicios en línea; inicialmente se popularizó y logró gran aceptación e impacto el comercio electrónico y las tiendas en línea, donde un fabricante o empresa ofrece la venta de sus productos, facilitando al cliente diferentes opciones de pago y envío del producto o servicio adquirido.
     .row.mb-5
       .col-lg-5(data-aos="fade-right"): img(src='@/assets/curso/88.jpg')
       .col-lg-7(data-aos="fade-left")
@@ -45,7 +45,7 @@
       | cada región a nivel global tiene sus <i>marketplaces</i> propios y fuertes.
       br
       br
-      |Para entender con claridad el concepto y el comercio electrónico como comprador o vendedor digital, se invita a revisar el siguiente elemento donde se ve con claridad el servicio de las ventas y compras digitales:
+      |Para entender con claridad el concepto y el comercio electrónico como comprador o vendedor digital, se invita a revisar el siguiente video, donde se ve con claridad el servicio de las ventas y compras digitales:
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/z0H0kgzr71E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

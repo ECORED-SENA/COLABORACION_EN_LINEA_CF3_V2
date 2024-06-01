@@ -41,7 +41,7 @@
           img(src="@/assets/curso/cta.svg")
 
         .col-md.col-lg-6
-          h3 Scaperoom 1
+          h3 #[em Scaperoom] 1
           p.mb-4 Bienvenido a la actividad llamada Scaperrom  donde vas a demostrar tu habilidad como conocedor digital, la actividad es un reto en el que debes seguir las instrucciones para descubrir las claves que te solicitarán más adelante, éxitos...
           
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/Scaperoom1/story.html')" target="_blank" type="application/pdf")
@@ -203,14 +203,14 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 “Las redes sociales no solo cambiaron la forma en que las nuevas generaciones (nativos digitales) socializan, sino que también la manera en que debemos definir lo público y lo privado. Cada smartphone que funcione bajo el sistema operativo iOS o Android guarda la información de cada comentario que realizamos en Facebook, sabe quiénes son nuestros contactos en WhatsApp, registra cada lugar en el que estamos a través del GPS y hasta el asistente virtual Siri aprende a diferenciar nuestros estados de ánimo. En definitiva, la desarticulación de lo público y lo privado en las redes sociales plantea cambios que atañen a lo social y político” (Jaramillo, 2016).
+            p.mb-0 “Las redes sociales no solo cambiaron la forma en que las nuevas generaciones (nativos digitales) socializan, sino que también la manera en que debemos definir lo público y lo privado. Cada #[em smartphone] que funcione bajo el sistema operativo iOS o Android guarda la información de cada comentario que realizamos en Facebook, sabe quiénes son nuestros contactos en WhatsApp, registra cada lugar en el que estamos a través del GPS y hasta el asistente virtual Siri aprende a diferenciar nuestros estados de ánimo. En definitiva, la desarticulación de lo público y lo privado en las redes sociales plantea cambios que atañen a lo social y político” (Jaramillo, 2016).
             i.fas.fa-quote-right
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/23.jpg', alt='Texto que describa la imagen')
     p.mb-5 El concepto de los perfiles públicos y privados inicia desde el mismo momento en que se crean cuentas o perfiles en las redes sociales, toda vez que en el proceso de registro se suministra información sensible como nombres, identificación, dirección, teléfono, correo electrónico, estado civil, gustos, preferencias, nacionalidad, entre otras, que normalmente se entrega de manera voluntaria al proveedor o dueño de la plataforma donde se está registrando, aceptando los términos y condiciones de la plataforma, muchos de los datos privados pasan a ser públicos y de libre uso.
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-lg-8
         .cajon.color-acento-botones.p-4.mb-4
-          p Los perfiles privados se refieren a aquellos donde se restringen el acceso de lo que se publica a solo algunas personas o familiares, limitando el acceso y limitando la posibilidad de no todas las personas puedan compartir y acceder a las publicaciones.
+          p Los perfiles privados se refieren a aquellos donde se restringe el acceso de lo que se publica a solo algunas personas o familiares, limitando el acceso y la posibilidad para que no todas las personas puedan compartir y acceder a las publicaciones.
     .row.mb-5
       .col-lg-7(data-aos="fade-right")
         .cajon-b.color-primario.abajo-derecha.p-3.mb-5
@@ -296,7 +296,7 @@
           img(src="@/assets/curso/cta.svg")
 
         .col-md.col-lg-6
-          h3 Scaperoom 2
+          h3 #[em Scaperoom] 2
           p.mb-4 Vas bien, esperamos que ya tengas listas algunas pistas y continúes tu proceso de aprendizaje de la mano de tu creatividad y compromiso, acá tienes otro pedazo del reto, presta mucha atención para descubrir las pistas...
           
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/Scaperoom2/story.html')" target="_blank" type="application/pdf")
@@ -310,9 +310,7 @@
         .row.justify-content-start.align-items-center
           .col-lg-9.d-flex.align-items-center
             .texto.texto-adorno__6
-              p.h3.fw-normal 
-                b Tener los perfiles públicos con los datos personales abiertos al mundo podría generar problemas dependiendo de lo que se publique, 
-                | por ejemplo un hacker o delincuente informático puede utilizar las fotos, videos y publicaciones para suplantar una identidad, ya sea en la misma red social o en cualquier otra red, y a partir de la creación de estos perfiles falsos buscar contactar a familiares y amigos y tratar de estafarlos; además, puede ser utilizada la información para tratar de causar daño, adivinar contraseñas o para afectar la imagen profesional tomando como argumentos las ideas, opiniones o fotos controversiales publicadas en los perfiles.
+              p.h3.fw-normal #[b Tener los perfiles públicos con los datos personales abiertos al mundo, podría generar problemas dependiendo de lo que se publique,] por ejemplo, un #[em hacker] o delincuente informático puede utilizar las fotos, videos y publicaciones para suplantar una identidad, ya sea en la misma red social o en cualquier otra red, y a partir de la creación de estos perfiles falsos, buscar contactar a familiares y amigos y tratar de estafarlos; además, puede ser utilizada la información para tratar de causar daño, adivinar contraseñas o para afectar la imagen profesional, tomando como argumentos las ideas, opiniones o fotos controversiales publicadas en los perfiles.
     p.mb-5 El riesgo está en que las fotos, videos y publicaciones en general puedan ser utilizados por cualquier persona en cualquier parte del mundo sin que el propietario se dé cuenta, otra consideración importante es tener mucho cuidado con lo que se publica, debido a que algunas de las publicaciones podrían considerarse inapropiadas y pueden ser utilizadas para afectar la imagen del dueño de la cuenta.
       br
       br
@@ -396,14 +394,14 @@
             br
             br
             b Foros: 
-            |son sitios o servicios a través de páginas <i>web</i> con la finalidad de participar en debates con aportes frente a una temática en particular.
+            |son sitios o servicios a través de páginas web con la finalidad de participar en debates con aportes frente a una temática en particular.
             br
             br
             b Wiki: 
             |son páginas donde los usuarios pueden leer y editar información sobre conceptos o definiciones, normalmente tienen asociados foros donde se pueden escribir y publicar sus opiniones sobre estos temas.
             br
             br
-            b Blogs: 
+            b #[em Blogs]: 
             |son sitios web donde los usuarios tienen la particularidad de acceder constantemente a temáticas que se actualizan con información nueva y relevante en forma de <i>post</i> o artículos sobre temas diversos.
       .tarjeta.color-acento-contenido.contenido-tarjeta.p-4(x="52%" y="56%")
         .icono-tarjeta: img(src='@/assets/curso/48.svg', alt='Texto que describa la imagen' style="width: 99px")
@@ -419,12 +417,12 @@
             br
             br
             b Medios digitales: 
-            |si bien los miembros de un grupo o comunidad digital pueden estar geográficamente cerca o en la misma región, la satisfacción de la pertenencia a estos grupos y comunidades es justamente la utilización de medios digitales como páginas web, servicios digitales a través de internet.
+            |si bien los miembros de un grupo o comunidad digital pueden estar geográficamente cerca o en la misma región, la satisfacción de la pertenencia a estos grupos y comunidades es justamente la utilización de medios digitales como páginas web, servicios digitales a través de Internet.
             br
             br
             b Sentido de pertenencia: 
             |esta se da de igual o más fuerte que con grupos tradicionales, lo que nos indica que el contacto físico es irrelevante para ser parte de un grupo o comunidad.
-    p.mb-5 Los grupos y comunidades virtuales brindan la posibilidad de establecer contacto directo a través de medios digitales como el internet con personas que comparten los mismos intereses, gustos y posiciones, pero evitando el protocolo que existe en las relaciones interpersonales del plano físico.
+    p.mb-5 Los grupos y comunidades virtuales brindan la posibilidad de establecer contacto directo a través de medios digitales como el Internet con personas que comparten los mismos intereses, gustos y posiciones, pero evitando el protocolo que existe en las relaciones interpersonales del plano físico.
     .contenedor.bg--4-claro.p-5.my-5(data-aos="zoom-in-up")
         .avatar: img(src='@/assets/curso/avatar1.png', alt='Texto que describa la imagen' style='width: 582px')
         .contenedor-img__3: img(src='@/assets/curso/49.png', alt='Texto que describa la imagen' style='width: 247px')

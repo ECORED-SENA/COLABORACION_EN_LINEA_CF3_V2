@@ -10,10 +10,7 @@
     .row.mb-5.align-items-center
       .col-lg-5(data-aos="fade-right"): img(src='@/assets/curso/62.svg').mb-5
       .col-lg-7(data-aos="fade-left")
-        p Cuando se realiza acceso frecuente a plataformas y herramientas tecnológicas, incluyendo las redes sociales, hay que cumplir con una serie de recomendaciones en cuanto al comportamiento que debe realizarse igual en la interacción directa que en la <i>online</i>.
-          br
-          br
-          |Particularmente se debe poner especial atención a lo que se escribe o publica, y se conoce con el nombre de netiqueta. Este concepto surge de la palabra francesa etiquette (buenas maneras) y la inglesa net (red), para determinar las normas de comportamiento que debían cumplir los usuarios al hacer uso de herramientas como foros, redes sociales, chats y correos electrónicos, entre otros.
+        p Cuando se realiza acceso frecuente a plataformas y herramientas tecnológicas, incluyendo las redes sociales, hay que cumplir con una serie de recomendaciones en cuanto al comportamiento que debe realizarse igual en la interacción directa que en la <i>online</i>. #[br] #[br] Particularmente se debe poner especial atención a lo que se escribe o publica, y se conoce con el nombre de netiqueta. Este concepto surge de la palabra francesa #[em etiquette] (buenas maneras) y la inglesa net (red), para determinar las normas de comportamiento que debían cumplir los usuarios al hacer uso de herramientas como foros, redes sociales, chats y correos electrónicos, entre otros.
     #t_3_1.titulo-segundo(data-aos='fade-right')
       h2 3.1 Normas de comportamiento
     p.mb-5 A continuación, se mencionan de manera general, las normas que se deben cumplir al hacer uso de aplicaciones o plataformas tecnológicas, de su buena aplicación depende el mantenimiento estable de la identidad digital:
@@ -50,7 +47,7 @@
             .col-md-10.col-8
               .contenido.p-5.h-100
                 h4 No sea “pesado”
-                p Puede ser que se tenga información “bomba” que puede o debe compartir con más usuarios o simplemente puede ser que esté ofreciendo algún producto o servicio, la recomendación es no bombardear o inundar a los contactos o conocidos con mucha información o spam con publicaciones que seguramente no les interesan a todos los usuarios.
+                p Puede ser que se tenga información “bomba” que puede o debe compartir con más usuarios ,o simplemente puede ser que esté ofreciendo algún producto o servicio, la recomendación es no bombardear o inundar a los contactos o conocidos con mucha información o #[em spam] con publicaciones que seguramente no le interesan a todos los usuarios.
           .row.mb-2.g-0
             .col-md-2.col-4
               .numero.morado__4.text-center.text-white.p-4.h-100.d-flex.align-items-center.justify-content-center
@@ -123,7 +120,7 @@
                 p Dentro de los grupos y comunidades siempre existirán personas con posiciones y puntos de vista distintos por lo que tratarán en algunas ocasiones de causar provocaciones, el objetivo es no caer en esos juegos de la provocación y, si es necesario, retirarse o desconectarse por el tiempo necesario mientras se calman y terminan las provocaciones.
     #t_3_2.titulo-segundo(data-aos='fade-right')
       h2 3.2 Normas para chat, foros y redes sociales
-    p.mb-5 En el uso de la información escrita o de carácter visual se debe ser muy prudente y atinado, eso habla muy bien de las personas y ayuda a construir un canal digital llamativo con buena referencia para la identidad en línea, como lo dice el siguiente recurso.
+    p.mb-5 En el uso de la información escrita o de carácter visual, se debe ser muy prudente y atinado, eso habla muy bien de las personas y ayuda a construir un canal digital llamativo con buena referencia para la identidad en línea.
       br
       br
       |Ahora, se conocerán las recomendaciones más frecuentes a tener en cuenta al hacer publicaciones:
@@ -179,7 +176,7 @@
         .tarjeta.tarjeta-hover.h-100.bg--4-claro.p-5.d-flex.align-items-center.justify-content-center
           .img-hover: img(src='@/assets/curso/83.svg' style='width: 196px').m-auto
           .text-hover
-            p.mb-0 Una vez que se expresa una posición sobre un tema, <b>se puede debatir con quien lo cuestiona</b>, pero nadie lee respuestas largas, y si se emite una opinión o se responde más de cuatro veces generalmente aburre a los demás.
+            p.mb-0 Una vez que se expresa una posición sobre un tema, se puede debatir con quien lo cuestiona, pero nadie lee respuestas largas, y si se emite una opinión o se responde más de cuatro veces, generalmente aburre a los demás.
       .col-lg-3.mb-3
         .tarjeta.tarjeta-hover.h-100.bg--4-claro.p-5.d-flex.align-items-center.justify-content-center
           .img-hover: img(src='@/assets/curso/84.svg' style='width: 196px').m-auto
@@ -200,15 +197,56 @@
           .col-xl-7
             .texto.texto-adorno__7
               p.h2.fw-normal  Usar a diario y con mucha intensidad no necesariamente es un sinónimo de buen uso, la pregunta es si se sabe ¿qué escribir? y ¿bajo qué características debería estar escrito un correo electrónico?
-              p Pachter (2010), una gurú en cuestiones de educación en los negocios, cree que no, tal como lo narra en The Essentials of Business Etiquette, desde donde propone las 10 reglas de oro para el uso adecuado del email, así:
+              p Pachter (2010), una gurú en cuestiones de educación en los negocios, cree que no, tal como lo narra en #[em The Essentials of Business Etiquette], desde donde propone las 10 reglas de oro para el uso adecuado del #[em e-mail]:
               .wrap-player
                 audio(controls='')
                   source(src='../../public/downloads/A6.mp3' type='audio/mpeg')
                   |  Your browser does not support the audio tag.
-    figure(data-aos="zoom-in-up")
-      img(src='@/assets/curso/87.svg', alt='Texto que describa la imagen').d-none.d-lg-block.d-xl-block
-      img(src='@/assets/curso/104.svg', alt='Texto que describa la imagen').d-none.d-sm-block.d-lg-none.d-xl-none
-      img(src='@/assets/curso/105.svg', alt='Texto que describa la imagen').d-lg-none.d-xl-none.d-md-none.d-sm-none.d-xs-block
+    
+    br
+    .row.mt-4.justify-content-center
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 1
+          p.mb-0 Un #[em e-mail] no siempre es un texto para un amigo. Se debe evitar el uso de abreviaturas, siglas, emoticones o demasiadas exclamaciones.
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 2
+          p.mb-0 No olvidar poner el asunto: debe ser algo descriptivo, no se puede dejar ese campo en blanco, es la línea más importante del correo, debe ser una frase clara y atractiva, muchos deciden no abrir o leer un correo a menos que la línea de asunto indique que es algo que vale la pena ver.
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 3
+          p.mb-0  Seleccionar una tipografía: el mensaje debe ser claro, sencillo y fácil de leer. Se aconseja el uso de Times New Roman, Arial o Calibrí, en color negro y tamaño 10 o 12.
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 4
+          p.mb-0  Incluir un saludo profesional y la firma. Evitar expresiones coloquiales y las abreviaturas en los nombres al iniciar el #[em e-mail]. En la firma, proporcionar más información como el cargo, nombre de la empresa e información de contacto.
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 5
+          p.mb-0 No usar en exceso la opción de “responder a todos”. Utilizarlo solo si es necesario que todos los incluidos en el mensaje inicial, vea el correo.
+    
+    .row.justify-content-center
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 6
+          p.mb-0 Revisar los mensajes. Leer y releer. Si es necesario, hasta en voz alta. Los correctores ofimáticos a veces son traicioneros y los errores dan mala imagen del emisor.
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 7
+          p.mb-0  Incluir la dirección en el último momento. Incluso si está respondiendo a un #[em e-mail], los expertos aconsejan borrar la dirección y escribirla solo cuando el mensaje esté listo para ser enviado. Así se evitan sustos inesperados al pulsar botones por error.
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 8
+          p.mb-0 Responder, incluso si no es el destinatario. Contestar a los mensajes es una simple regla de educación. Y avisar si el mensaje le llega por error, porque el emisor creerá que se envió a la persona correcta.
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 9
+          p.mb-0  No pedir confirmación, esto puede ser molesto. Además, hay quien tiene bloqueada esa opción.
+      .col-lg.col-md-6.mb-4
+        .d-flex
+          h3.me-2 10
+          p.mb-0  Bromas, las justas. El #[em e-mail] puede jugar muy malas pasadas. Una ironía no suena igual en una conversación que leyéndola en un #[em e-mail].
 
 </template>
 
