@@ -30,7 +30,7 @@
               img(src='@/assets/curso/52.jpg', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
             h4 Ser precavido en la información publicada
-            p Permitir que solo los contactos de la red de amigos puedan ver esos datos. Al momento de publicar se debe tener cuidado de no dar información confidencial como números de cuenta, contraseñas, número de teléfonos o direcciones, pues si algún usuario desconocido tuviera acceso a esta información podría terminar en casos de acoso o publicidad.
+            p Permitir que solo los contactos de la red de amigos puedan ver esos datos. Al momento de publicar, se debe tener cuidado de no dar información confidencial como números de cuenta, contraseñas, números de teléfonos o direcciones, pues si algún usuario desconocido tuviera acceso a esta información, podría terminar en casos de acoso o publicidad.
         .row(titulo="4")
           .col-md-5
             figure
@@ -72,14 +72,14 @@
               img(src='@/assets/curso/58.jpg', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
             h4 ¿Público o privado? 
-            p Por defecto, muchas redes sociales comparten los contenidos de forma pública. Algunas ofrecen privacidad como una configuración global para hacer un perfil público o privado, mientras que otras dan más opciones, permitiendo hacer las publicaciones individuales públicas o privadas. Hay que asegurarse que estas configuraciones cumplan con los objetivos para aceptar los términos del servicio.
+            p Por defecto, muchas redes sociales comparten los contenidos de forma pública. Algunas ofrecen privacidad como una configuración global para hacer un perfil público o privado, mientras que otras dan más opciones, permitiendo hacer las publicaciones, individuales públicas o privadas. Hay que asegurarse de que estas configuraciones cumplan con los objetivos para aceptar los términos del servicio.
         .row(titulo="10")
           .col-md-5
             figure
               img(src='@/assets/curso/59.jpg', alt='Texto que describa la imagen')
           .col-md-7.mb-4.mb-md-0
             h4 Doble autenticación
-            p Si es posible, implementar una doble autenticación. Algunos servicios como Facebook y Twitter ofrecen una autenticación de dos factores como una medida de seguridad. Normalmente, para iniciar sesión en un servicio, ingresamos una contraseña, que es lo común cuando utilizamos una red social. Al habilitar una autenticación de dos factores, además de una clave, se introduce un dato que tiene solo el usuario, generalmente en forma de un número generado aleatoriamente, o #[em token], que puede enviarse al dispositivo móvil a través de un SMS, o bien, se generan números aleatorios dentro de los servicios de la aplicación móvil. De esta manera, hace más difícil que alguien entre a nuestra cuenta, porque se necesitaría el #[em token] o el número secreto.
+            p Si es posible, implementar una doble autenticación. Algunos servicios como Facebook y X ofrecen una autenticación de dos factores como una medida de seguridad. Normalmente, para iniciar sesión en un servicio, ingresamos una contraseña, que es lo común cuando utilizamos una red social. Al habilitar una autenticación de dos factores, además de una clave, se introduce un dato que tiene solo el usuario, generalmente en forma de un número generado aleatoriamente, o #[em token], que puede enviarse al dispositivo móvil a través de un SMS, o bien, se generan números aleatorios dentro de los servicios de la aplicación móvil. De esta manera, hace más difícil que alguien entre a nuestra cuenta, porque se necesitaría el #[em token] o el número secreto.
         .row(titulo="11")
           .col-md-5
             figure

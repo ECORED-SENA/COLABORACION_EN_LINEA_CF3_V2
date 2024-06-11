@@ -11,15 +11,15 @@
     .row.mb-5
       .col-lg-5(data-aos="fade-right"): img(src='@/assets/curso/88.jpg')
       .col-lg-7(data-aos="fade-left")
-        p En el comercio electrónico generalmente las ganancias son para quien vende o comercializa sus productos o servicios por medio de una plataforma en línea, sea para hacer la venta directa (<i>marketplace</i>) o un contacto para la venta (SMS, mensajes de texto directos y cortos). Con la llegada de la <i>web</i> 2.0 surgió una nueva estrategia o manera de vender en línea, estos son los llamados <i>marketplace</i> que son, básicamente, plataformas tecnológicas que permiten que ya no sea solo un proveedor quien ofrece su producto, sino que sean varias las tiendas; este concepto es mucho más amplio al del comercio electrónico, porque lo que se busca es brindarle al cliente final la opción de ingresar a una plataforma donde existan mercados digitales con cientos de tiendas, lo que le da más opciones y posibilidades al cliente a la hora de buscar y adquirir un producto, es como tener un centro comercial en línea.
+        p En el comercio electrónico, generalmente las ganancias son para quien vende o comercializa sus productos o servicios por medio de una plataforma en línea, sea para hacer la venta directa (<i>marketplace</i>) o un contacto para la venta (SMS, mensajes de texto directos y cortos). Con la llegada de la <i>web</i> 2.0 surgió una nueva estrategia o manera de vender en línea, estos son los llamados <i>marketplace</i> que son, básicamente, plataformas tecnológicas que permiten que ya no sea solo un proveedor quien ofrece su producto, sino que sean varias las tiendas; este concepto es mucho más amplio al del comercio electrónico, porque lo que se busca es brindarle al cliente final la opción de ingresar a una plataforma donde existan mercados digitales con cientos de tiendas, lo que le da más opciones y posibilidades al cliente a la hora de buscar y adquirir un producto, es como tener un centro comercial en línea.
     .row.mb-5
       .col-lg-6
-        .bg--3.p-5.h-100
+        .bg--3.p-5.h-100.text-white
           img(src='@/assets/curso/89.svg' style='width: 71px').mb-3
           h1.fw-normal ¿Cuál es la diferencia con el comercio electrónico?
           p La principal diferencia está determinada por el manejo de las ganancias, mientras en el <i>e-commerce</i> tradicional (comercio electrónico) el 100 % de las ganancias son para el vendedor; en los <i>marketplace</i> hay una pequeña fracción o porcentaje para el dueño de la plataforma que facilita la comercialización de cientos de tiendas.
       .col-lg-6
-        .bg--1.p-5.text-white.h-100
+        .bg--1.p-5.h-100
           img(src='@/assets/curso/90.svg' style='width: 71px').mb-3
           h1.fw-normal ¿Cuáles son las ventajas de los <i>marketplace</i>?
           p Que en una sola plataforma puede observar la oferta de un mismo producto por varias tiendas o vendedores, lo que le da la posibilidad al cliente de elegir entre las ofertas la más favorable en términos de costos. Por su parte, los dueños de las tiendas o vendedores tienen la posibilidad de incrementar sus ventas, mejorar su visibilidad del mercado e incluso desarrollar emprendimientos totalmente <i>online</i> a través de estas plataformas.
@@ -50,7 +50,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/z0H0kgzr71E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     h3(data-aos="fade-right") Cómo funcionan los <i>marketplaces</i>
-    p.mb-5 El funcionamiento de una plataforma de este es tipo, consiste en unir empresas con sus respectivos clientes potenciales y esto lo hacen de varias formas:
+    p.mb-5 El funcionamiento de una plataforma de este tipo, consiste en unir empresas con sus respectivos clientes potenciales y esto lo hacen de varias formas:
     .row.mb-5.justify-content-center
       .col-md-4.mb-4.mb-xl-0
         .tarjeta-numerada.color-primario.border-4.px-5.h-100.pt-4
@@ -61,7 +61,7 @@
         .tarjeta-numerada.color-secundario.border-4.px-5.h-100.pt-4
           .tarjeta-numerada__numero.p-2.d-flex.justify-content-center
             img(src='@/assets/curso/92.svg' style='width: 61px').m-auto
-          p.mb-0.mt-4 Luego de ese se hace una estrategia de publicidad, <i>marketing</i> y fidelización de los clientes a cambio.
+          p.mb-0.mt-4 Luego de eso se hace una estrategia de publicidad, <i>marketing</i> y fidelización de los clientes a cambio.
     p.mb-5 Todo esto se hace para que las empresas que van a vender en este <i>marketplace</i> paguen un porcentaje de la venta que va desde el 0,5 % hasta el 30 % según la estrategia de publicidad que decida adquirir el vendedor en el momento de registrar su tienda; cuanto más agresivo sea el plan de <i>marketing</i>, mayor será el porcentaje que debe asumir en las ventas el vendedor.
       br
       br

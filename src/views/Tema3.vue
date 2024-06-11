@@ -10,7 +10,7 @@
     .row.mb-5.align-items-center
       .col-lg-5(data-aos="fade-right"): img(src='@/assets/curso/62.svg').mb-5
       .col-lg-7(data-aos="fade-left")
-        p Cuando se realiza acceso frecuente a plataformas y herramientas tecnológicas, incluyendo las redes sociales, hay que cumplir con una serie de recomendaciones en cuanto al comportamiento que debe realizarse igual en la interacción directa que en la <i>online</i>. #[br] #[br] Particularmente se debe poner especial atención a lo que se escribe o publica, y se conoce con el nombre de netiqueta. Este concepto surge de la palabra francesa #[em etiquette] (buenas maneras) y la inglesa net (red), para determinar las normas de comportamiento que debían cumplir los usuarios al hacer uso de herramientas como foros, redes sociales, chats y correos electrónicos, entre otros.
+        p Cuando se realiza acceso frecuente a plataformas y herramientas tecnológicas, incluyendo las redes sociales, hay que cumplir con una serie de recomendaciones en cuanto al comportamiento que debe realizarse igual en la interacción directa que en la <i>online</i>. #[br] #[br] Particularmente se debe poner especial atención a lo que se escribe o publica, y se conoce con el nombre de netiqueta. Este concepto surge de la palabra francesa #[em etiquette] (buenas maneras) y la inglesa #[em net] (red), para determinar las normas de comportamiento que debían cumplir los usuarios al hacer uso de herramientas como foros, redes sociales, #[em chats] y correos electrónicos, entre otros.
     #t_3_1.titulo-segundo(data-aos='fade-right')
       h2 3.1 Normas de comportamiento
     p.mb-5 A continuación, se mencionan de manera general, las normas que se deben cumplir al hacer uso de aplicaciones o plataformas tecnológicas, de su buena aplicación depende el mantenimiento estable de la identidad digital:
@@ -57,7 +57,7 @@
             .col-md-10.col-8
               .contenido.p-5.h-100
                 h4 Respetar los derechos de autor 
-                p No apropiarse del trabajo de otros usuarios, esta es una actividad muy común; como usuarios de redes sociales, de herramientas colaborativas y participativas muchas veces con o sin intención se utiliza y comparten contenidos hechos por otras personas sin hacer la respectiva citación de la autoría, por lo que se debe citar y nombrar al autor y no utilizar contenidos sin los respectivos permisos o autorizaciones. 
+                p No apropiarse del trabajo de otros usuarios, esta es una actividad muy común; como usuarios de redes sociales, de herramientas colaborativas y participativas, muchas veces con o sin intención se utilizan y comparten contenidos hechos por otras personas sin hacer la respectiva citación de la autoría, por lo que se debe citar y nombrar al autor y no utilizar contenidos sin los respectivos permisos o autorizaciones. 
           .row.mb-2.g-0
             .col-md-2.col-4
               .numero.morado__5.text-center.text-white.p-4.h-100.d-flex.align-items-center.justify-content-center
@@ -238,11 +238,11 @@
       .col-lg.col-md-6.mb-4
         .d-flex
           h3.me-2 8
-          p.mb-0 Responder, incluso si no es el destinatario. Contestar a los mensajes es una simple regla de educación. Y avisar si el mensaje le llega por error, porque el emisor creerá que se envió a la persona correcta.
+          p.mb-0 Responder, incluso si no es el destinatario. Contestar los mensajes es una simple regla de educación. Y avisar si el mensaje le llega por error, porque el emisor creerá que se envió a la persona correcta.
       .col-lg.col-md-6.mb-4
         .d-flex
           h3.me-2 9
-          p.mb-0  No pedir confirmación, esto puede ser molesto. Además, hay quien tiene bloqueada esa opción.
+          p.mb-0  No pedir confirmación, esto puede ser molesto. Además, hay quienes tienen bloqueada esa opción.
       .col-lg.col-md-6.mb-4
         .d-flex
           h3.me-2 10

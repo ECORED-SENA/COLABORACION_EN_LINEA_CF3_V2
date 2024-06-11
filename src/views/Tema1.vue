@@ -68,59 +68,59 @@
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/5.svg', alt='Texto que describa')
-          h5 Mantener contacto con amigos y familiares.
+          h5.text-white Mantener contacto con amigos y familiares.
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/6.svg', alt='Texto que describa')
-          h5 Mantenerse al día con las noticias y eventos de actualidad.
+          h5.text-white Mantenerse al día con las noticias y eventos de actualidad.
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/7.svg', alt='Texto que describa')
-          h5 Ocupar el tiempo libre.
+          h5.text-white Ocupar el tiempo libre.
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/8.svg', alt='Texto que describa')
-          h5 Encontrar contenido entretenido o divertido.
+          h5.text-white Encontrar contenido entretenido o divertido.
     .row.mb-3
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/9.svg', alt='Texto que describa')
-          h5 Compartir su opinión sobre un determinado tema.
+          h5.text-white Compartir su opinión sobre un determinado tema.
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/10.svg', alt='Texto que describa')
-          h5 Compartir fotos y videos con las demás personas.
+          h5.text-white Compartir fotos y videos con las demás personas.
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/11.svg', alt='Texto que describa')
-          h5 Generación de una red de contactos.
+          h5.text-white Generación de una red de contactos.
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/12.svg', alt='Texto que describa')
-          h5 Conocer gente nueva.
+          h5.text-white Conocer gente nueva.
     .row.mb-5
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/13.svg', alt='Texto que describa')
-          h5 Compartir los detalles de lo que se está haciendo en la vida diaria.
+          h5.text-white Compartir los detalles de lo que se está haciendo en la vida diaria.
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/14.svg', alt='Texto que describa')
-          h5 Compartir perfil profesional y ofrecer y buscar empleo.
+          h5.text-white Compartir perfil profesional y ofrecer y buscar empleo.
       .col-lg-3.mb-3
         .bg--3.px-2.py-3.d-flex.h-100.align-items-center
           figure.imagen-cartas
             img(src='@/assets/curso/15.svg', alt='Texto que describa')
-          h5 Promocionar productos y servicios.
+          h5.text-white Promocionar productos y servicios.
     .row.justify-content-center.mb-5(data-aos="zoom-in-up")
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
@@ -177,7 +177,7 @@
               p Esta cuenta se crea con la intención de poder compartir con amigos, familia y público en general gustos, intereses, preferencias, opiniones.
           .row
             .col-md-6.mb-4.mb-md-0
-              p Para ello se requiere de contar con una cuenta de correo electrónico o un número telefónico activo y una contraseña.
+              p Para ello se requiere contar con una cuenta de correo electrónico o un número telefónico activo y una contraseña.
             .col-md-6
               figure
                 img(src='@/assets/curso/20.jpg', alt='Texto que describa la imagen')
@@ -203,7 +203,7 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 “Las redes sociales no solo cambiaron la forma en que las nuevas generaciones (nativos digitales) socializan, sino que también la manera en que debemos definir lo público y lo privado. Cada #[em smartphone] que funcione bajo el sistema operativo iOS o Android guarda la información de cada comentario que realizamos en Facebook, sabe quiénes son nuestros contactos en WhatsApp, registra cada lugar en el que estamos a través del GPS y hasta el asistente virtual Siri aprende a diferenciar nuestros estados de ánimo. En definitiva, la desarticulación de lo público y lo privado en las redes sociales plantea cambios que atañen a lo social y político” (Jaramillo, 2016).
+            p.mb-0 “Las redes sociales no solo cambiaron la forma en que las nuevas generaciones (nativos digitales) socializan, sino que también la manera en que debemos definir lo público y lo privado. Cada #[em smartphone] que funcione bajo el sistema operativo iOS o Android guarda la información de cada comentario que realizamos en Facebook, sabe quiénes son nuestros contactos en WhatsApp, registra cada lugar en el que estamos a través del #[em GPS] y hasta el asistente virtual Siri aprende a diferenciar nuestros estados de ánimo. En definitiva, la desarticulación de lo público y lo privado en las redes sociales plantea cambios que atañen a lo social y político” (Jaramillo, 2016).
             i.fas.fa-quote-right
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/23.jpg', alt='Texto que describa la imagen')
     p.mb-5 El concepto de los perfiles públicos y privados inicia desde el mismo momento en que se crean cuentas o perfiles en las redes sociales, toda vez que en el proceso de registro se suministra información sensible como nombres, identificación, dirección, teléfono, correo electrónico, estado civil, gustos, preferencias, nacionalidad, entre otras, que normalmente se entrega de manera voluntaria al proveedor o dueño de la plataforma donde se está registrando, aceptando los términos y condiciones de la plataforma, muchos de los datos privados pasan a ser públicos y de libre uso.
@@ -214,7 +214,7 @@
     .row.mb-5
       .col-lg-7(data-aos="fade-right")
         .cajon-b.color-primario.abajo-derecha.p-3.mb-5
-          p.mb-0 Si bien las redes sociales son utilizadas como un medio de contacto con familiares y amigos, son un medio para publicar opiniones y posiciones en diferentes temáticas, también son medios utilizados por las empresas cuando se está analizando las hojas de vida de candidatos presentados en búsqueda de un empleo; así cada vez es más común y más utilizado por las áreas encargadas investigar e indagar en las redes sociales sobre las personas que se encuentran solicitando el trabajo.
+          p.mb-0 Si bien las redes sociales son utilizadas como un medio de contacto con familiares y amigos, son un medio para publicar opiniones y posiciones en diferentes temáticas, también son medios utilizados por las empresas cuando se están analizando las hojas de vida de candidatos presentados en búsqueda de un empleo; así cada vez es más común y más utilizado por las áreas encargadas investigar e indagar en las redes sociales sobre las personas que se encuentran solicitando el trabajo.
             br
             br
             |Aunque esta es una práctica muy común desde el plano profesional por la validación e investigación de perfiles profesionales, también es cierto que existen otro tipo de personas inescrupulosas que buscan indagar y encontrar perfiles en busca de realizar actos delictivos o algún tipo de fraude, por lo que cobra gran importancia la necesidad de prohibir el acceso o la entrada a los perfiles, limitando o prohibiendo el acceso a todo usuario, lo que permite garantizar tener perfiles privados con monitoreo constante.
@@ -228,14 +228,14 @@
             .indicador--hover(v-if="mostrarIndicador")
             img(src='@/assets/curso/26.jpg')
             .tarjeta.bg--3.contendor-hover__tarjeta.p-3
-              p Este es un perfil público que permite revisar la información publicada sin necesidad de ser un seguidor.
+              p.text-white Este es un perfil público que permite revisar la información publicada sin necesidad de ser un seguidor.
       .col-lg-4.mb-3
         .tarjeta.p-4.bg--4.h-100
           img(src='@/assets/curso/27.svg', alt='Texto que describa la imagen' style='width: 77px').mb-3
           .contendor-hover
             img(src='@/assets/curso/28.jpg')
             .tarjeta.bg--3.contendor-hover__tarjeta.p-3
-              p Este es un perfil privado que no permite revisar la información de la cuenta mientras no sea permitido por el dueño del perfil a la hora de ser seguidor.
+              p.text-white Este es un perfil privado que no permite revisar la información de la cuenta mientras no sea permitido por el dueño del perfil a la hora de ser seguidor.
     .contenedor.bg--1-claro2.my-5.p-5.p-lg-0(data-aos="zoom-in-up").margin-2
         .avatar: img(src='@/assets/curso/avatar1.png', alt='Texto que describa la imagen' style='width: 582px')
         .contenedor-img__2: img(src='@/assets/curso/22.png', alt='Texto que describa la imagen' style='width: 390px')
@@ -248,6 +248,7 @@
                 audio(controls='')
                   source(src='../../public/downloads/A5.mp3' type='audio/mpeg')
                   |  Your browser does not support the audio tag.
+    br
     p.mb-5 La pregunta es determinar, 
       b ¿qué tipo de perfil debería de utilizar, público o privado?
       br
@@ -269,7 +270,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/30.jpg')})`}")
             .tarjeta-flip__contenido.p-5.p-xl-5
               img(src='@/assets/curso/33.svg', alt='Texto que describa la imagen' style='width: 77px').mb-3
-              p.text-white Si la red social a utilizarse es Twitter, su objetivo se centra en poder dar a conocer opiniones a cualquier persona en general y poder conocer nuevos amigos.
+              p.text-white Si la red social a utilizarse es X, su objetivo se centra en poder dar a conocer opiniones a cualquier persona en general y poder conocer nuevos amigos.
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip.tf__3(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -386,7 +387,7 @@
           .h5.mb-2 Ejemplos
           p
             b Redes sociales: 
-            |buscan que sus miembros o usuarios puedan conectarse con otros que tengan sus mismos intereses, a través de grupos, hashtags y otras herramientas en plataformas como: Facebook, Instagram, Twitter, esto permite interconectar personas y facilitar la creación de grupos y comunidades frente a una temática, gusto o preferencias.
+            |buscan que sus miembros o usuarios puedan conectarse con otros que tengan sus mismos intereses, a través de grupos, hashtags y otras herramientas en plataformas como: Facebook, Instagram, X, esto permite interconectar personas y facilitar la creación de grupos y comunidades frente a una temática, gusto o preferencias.
             br
             br
             b IM: 

@@ -9,10 +9,10 @@
     
     .row.mb-5
       .col-lg-7(data-aos="fade-right")
-        p Cuando se es comerciante o emprendedor y se desea ingresar en el mundo del #[em marketing] digital o el #[em social media] surge la pregunta: ¿cómo poder visibilizar mejor el negocio? O, #[strong ¿cómo se puede ingresar al mundo digital y aprovechar las herramientas tecnológicas actuales como las redes sociales para impulsar el crecimiento y conseguir más clientes para mis productos o servicios?]
+        p Cuando se es comerciante o emprendedor y se desea ingresar en el mundo del #[em marketing] digital o los #[em social media] surge la pregunta: ¿cómo poder visibilizar mejor el negocio? O, #[strong ¿cómo se puede ingresar al mundo digital y aprovechar las herramientas tecnológicas actuales como las redes sociales para impulsar el crecimiento y conseguir más clientes para mis productos o servicios?]
           br
           br
-          |Es acá donde una red social como Facebook cobra gran importancia, porque en los últimos años a través de actualizaciones y mejoras constantes, ha ido dando un giro importante a su plataforma y pasó de ser una plataforma que permite la interacción y el encuentro entre familiares y amigos, a cada vez ser más usada desde el punto de vista del <i>marketing</i> digital y el <i>social media</i>.
+          |Es acá donde una red social como Facebook cobra gran importancia, porque en los últimos años a través de actualizaciones y mejoras constantes, ha ido dando un giro importante a su plataforma y pasó de ser una plataforma que permite la interacción y el encuentro entre familiares y amigos, a cada vez ser más usada desde el punto de vista del <i>marketing</i> digital y los <i>social media</i>.
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/96.jpg')
     .contenedor.bg--2-claro.p-5.my-5(data-aos="zoom-in-up").m-additional3
         .avatar: img(src='@/assets/curso/avatar1.png', alt='Texto que describa la imagen' style='width: 582px')
@@ -20,7 +20,7 @@
         .row.justify-content-end
           .col-lg-8
             .texto.texto-adorno__9
-              p.h2.fw-normal En ese sentido nace una pregunta: 
+              p.h2.fw-normal En ese sentido, nace una pregunta: 
                 b ¿qué estrategia a partir de las herramientas y funciones que brinda la red social se debería utilizar para potencializar un negocio o empresa?
               .wrap-player
                 audio(controls='')
@@ -83,7 +83,7 @@
 
         .col-md.col-lg-6
           h3 #[em Scaperoom] 3
-          p.mb-4 Si todo va bien haz llegado al final del reto propuesto pero antes de ganar tu premio solo queda la fase final que se encuentra en este nuevo video, si lo logras descubrirás la clave que desbloquea el premio. Solo nos queda desearte éxitos...
+          p.mb-4 Si todo va bien, haz llegado al final del reto propuesto, pero antes de ganar tu premio solo queda la fase final que se encuentra en este nuevo video, si lo logras descubrirás la clave que desbloquea el premio. Solo nos queda desearte éxitos...
           
           a.boton.color-acento-botones(:href="obtenerLink('/downloads/Scaperoom3/story.html')" target="_blank" type="application/pdf")
             span Ver video
