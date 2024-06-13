@@ -172,9 +172,8 @@ export default {
   referencias: [
     {
       referencia:
-        'Jaramillo, O. (2016). Redes sociales: los límites de lo público y lo privado. ',
-      link:
-        'https://www.eleconomistaamerica.co/telecomunicacion-tecnologia-cl/noticias/7790793/08/16/Redes-sociales-los-limites-de-lo-publico-y-lo-privado.html ',
+        'Jaramillo, O. (s.f.). La desarticulación de lo público y lo privado en las redes sociales.',
+      link: 'https://oscarjaramillo.cl/wp-content/uploads/2014/01/PO-Oscar.pdf',
     },
     {
       referencia:
