@@ -10,7 +10,7 @@
     p.mb-5 Las redes sociales, a manera de comunicación, son un gran descubrimiento y para el ser humano pueden ser la solución a muchos de los problemas globales ya que dan visibilidad a lo que anteriormente era casi imposible de ver, tal como lo presenta el siguiente video:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/mATxSe_h5r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/zEqv8Bi1ddM?si=EE1c66u3bKQ_4I8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .contenedor.bg--2-claro-2.p-5.my-5(data-aos="zoom-in-up")
         .avatar: img(src='@/assets/curso/avatar1.png', alt='Texto que describa la imagen' style='width: 582px')
         .contenedor-img__2: img(src='@/assets/curso/3.png', alt='Texto que describa la imagen' style='width: 383px')
@@ -28,7 +28,7 @@
     p.mb-5 Los tipos de redes sociales son tan variados como las personas, por eso es claro saber cuáles de esas son para su uso y cuáles no. En el siguiente video se brinda más información sobre este tema.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Vu_jQSLPGnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/tdEv-yO1Uvg?si=HYp5oTwAcg2Jvc1-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Facebook, que originalmente fue creada como una red para conectar personas, en la actualidad es utilizada para ofertar productos y servicios, ofrecer entretenimiento y ser un medio que facilita la publicación y contratación de oferta laboral, entre otros tantos usos.
       br
       br

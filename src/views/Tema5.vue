@@ -45,12 +45,12 @@
     p.mb-5 El siguiente video nos amplía este concepto.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/0tWJb1kXnfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/pZHQZxjkxUs?si=7primNOf_bChq-Sj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     h3(data-aos="fade-right") Diferencias entre perfiles empresariales y #[em fanpage]
     p.mb-5 Varias redes tienen una diferenciación entre sus perfiles personales y empresariales, a continuación, se encuentra una de las redes más famosas y se evidencia con claridad esta diferenciación:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/HDXx6UUC6e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/4kcpro4ZZBk?si=nhrmDSO0AJ_FUytC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mb-5
       .col-lg-6(data-aos='fade-right')
         .tarjeta.bg--4-claro.tarjeta-hover1.p-5.h-100
