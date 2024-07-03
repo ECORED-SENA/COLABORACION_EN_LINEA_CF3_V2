@@ -22,10 +22,7 @@
             .texto.texto-adorno__9
               p.h2.fw-normal En ese sentido, nace una pregunta: 
                 b ¿qué estrategia a partir de las herramientas y funciones que brinda la red social se debería utilizar para potencializar un negocio o empresa?
-              .wrap-player
-                audio(controls='')
-                  source(src='../../public/downloads/A8.mp3' type='audio/mpeg')
-                  |  Your browser does not support the audio tag.
+
     p.mb-5 Esta red social brinda la posibilidad de tener dos alternativas a utilizar, las cuales son:
     .row.mb-5.justify-content-center
       .col-md-3.mb-4.mb-xl-0
@@ -76,18 +73,7 @@
             .tarjeta.tarjeta--am.p-4
               p.mb-0 Estas páginas son estupendas para generar seguidores en línea, porque no están limitadas a la cantidad de solicitudes de amistad. En cambio, los usuarios solo tienen que hacer clic en el botón “Me gusta” para comenzar a recibir las actualizaciones en su <i>feed</i> de noticias.
     p.mb-5 Ahora, a continuar jugando.
-    .tarjeta.bg--1-claro.p-4.p-md-5.mb-5
-      .row.justify-content-around.align-items-center
-        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          img(src="@/assets/curso/cta.svg")
 
-        .col-md.col-lg-6
-          h3 #[em Scaperoom] 3
-          p.mb-4 Si todo va bien, haz llegado al final del reto propuesto, pero antes de ganar tu premio solo queda la fase final que se encuentra en este nuevo video, si lo logras descubrirás la clave que desbloquea el premio. Solo nos queda desearte éxitos...
-          
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Scaperoom3/story.html')" target="_blank" type="application/pdf")
-            span Ver video
-            i.fas.fa-file-video
     p.mb-5 Has llegado al final de la información, es tu responsabilidad volverla conocimiento y practicar todo el tiempo, solo una cosa más nos falta:
     .row.mb-5(data-aos="zoom-in-up").justify-content-center.align-items-center
       .col-lg-10

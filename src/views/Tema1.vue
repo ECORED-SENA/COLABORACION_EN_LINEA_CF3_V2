@@ -19,10 +19,7 @@
             .texto
               p Ahora, te invitamos a analizar:
               p.h1.fw-normal.mb-5 ¿Qué es un seguidor en el contexto de las redes sociales? 
-              .wrap-player
-                audio(controls='')
-                  source(src='../../public/downloads/A2.mp3' type='audio/mpeg')
-                  |  Your browser does not support the audio tag.
+
     #t_1_1.titulo-segundo(data-aos='fade-right')
       h2 1.1 Tipos de redes sociales
     p.mb-5 Los tipos de redes sociales son tan variados como las personas, por eso es claro saber cuáles de esas son para su uso y cuáles no. En el siguiente video se brinda más información sobre este tema.
@@ -35,18 +32,7 @@
       |Se invita a revisar su conocimiento acerca de estas redes. 
       b ¿Qué se debe hacer? 
       |Llegar al final del siguiente video para encontrar una clave secreta.
-    .tarjeta.bg--1-claro.p-4.p-md-5.mb-5
-      .row.justify-content-around.align-items-center
-        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          img(src="@/assets/curso/cta.svg")
 
-        .col-md.col-lg-6
-          h3 #[em Scaperoom] 1
-          p.mb-4 Bienvenido a la actividad llamada Scaperrom  donde vas a demostrar tu habilidad como conocedor digital, la actividad es un reto en el que debes seguir las instrucciones para descubrir las claves que te solicitarán más adelante, éxitos...
-          
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Scaperoom1/story.html')" target="_blank" type="application/pdf")
-            span Ver video
-            i.fas.fa-file-video
     #t_1_2.titulo-segundo(data-aos='fade-right')
       h2 1.2 Usos de las redes sociales
     .contenedor.bg--4-claro.p-5(data-aos="zoom-in-up").margin-1
@@ -58,10 +44,7 @@
               p.h2.fw-normal
                 b ¿Sabías que el uso de las redes sociales está determinado por el usuario? 
                 | Según la cantidad de personas que actúen, de cierta manera los elementos de la red se comportan para facilitarle la navegación a esas personas.
-              .wrap-player.mb-4
-                audio(controls='')
-                  source(src='../../public/downloads/A3.mp3' type='audio/mpeg')
-                  |  Your browser does not support the audio tag.
+
     p.mb-5 Es así como cada red puede hacer su aparición en muchos casos de uso, como son:
     .row.mb-3
       .col-lg-3.mb-3
@@ -121,7 +104,7 @@
           figure.imagen-cartas
             img(src='@/assets/curso/15.svg', alt='Texto que describa')
           h5.text-white Promocionar productos y servicios.
-    .row.justify-content-center.mb-5(data-aos="zoom-in-up")
+    .row.justify-content-center.mb-5.pt-5(data-aos="zoom-in-up")
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img.p-5.d-flex
@@ -160,7 +143,7 @@
     #t_1_3.titulo-segundo(data-aos='fade-right')
       h2 1.3 Creación de perfiles públicos y privados 
     p.mb-5 Antes de hablar de perfiles públicos y privados, se debe entender qué es un “perfil” en el contexto digital.
-    .row.mb-5.justify-content-center(data-aos="zoom-in-up")
+    .row.mb-5.pb-5.justify-content-center(data-aos="zoom-in-up")
       .col-lg-10
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row
@@ -194,10 +177,7 @@
           .col-lg-7
             .texto
               p.h1.fw-normal ¿Cómo han transformado las redes sociales a la sociedad actual? 
-              .wrap-player
-                audio(controls='')
-                  source(src='../../public/downloads/A4.mp3' type='audio/mpeg')
-                  |  Your browser does not support the audio tag.
+
     .row.mb-5
       .col-lg-7(data-aos="fade-right")
         .bloque-texto-b.color-primario.p-4
@@ -244,10 +224,7 @@
             .texto.texto-adorno__3.my-3
               p.h1.fw-normal.ps-lg-4 ¿Es seguro dejar todos los perfiles de redes sociales abiertos con fotos y comentarios personales al alcance de cualquiera? 
                 b ¿O es mejor tenerlos parcialmente privados? 
-              .wrap-player
-                audio(controls='')
-                  source(src='../../public/downloads/A5.mp3' type='audio/mpeg')
-                  |  Your browser does not support the audio tag.
+
     br
     p.mb-5 La pregunta es determinar, 
       b ¿qué tipo de perfil debería de utilizar, público o privado?
@@ -291,18 +268,7 @@
       br
       br
       |Ya se debe tener una palabra clave como mínimo para el premio, ahora continúe en su rol de investigador:
-    .tarjeta.bg--1-claro.p-4.p-md-5.mb-5
-      .row.justify-content-around.align-items-center
-        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
-          img(src="@/assets/curso/cta.svg")
 
-        .col-md.col-lg-6
-          h3 #[em Scaperoom] 2
-          p.mb-4 Vas bien, esperamos que ya tengas listas algunas pistas y continúes tu proceso de aprendizaje de la mano de tu creatividad y compromiso, acá tienes otro pedazo del reto, presta mucha atención para descubrir las pistas...
-          
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/Scaperoom2/story.html')" target="_blank" type="application/pdf")
-            span Ver video
-            i.fas.fa-file-video
     #t_1_4.titulo-segundo(data-aos='fade-right')
       h2 1.4 Configuración y seguridad de redes sociales 
     .contenedor.bg--4-claro.p-5.my-5(data-aos="zoom-in-up").m-additional
