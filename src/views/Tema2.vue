@@ -6,7 +6,6 @@
       .titulo-principal__numero
         span 2
       h1 Cuidados y recomendaciones en redes sociales
-    
     p.mb-5 Dada la proliferación o aumento en el uso de las redes sociales, a continuación se mencionan algunas recomendaciones y características a tener en cuenta al momento de utilizarlas.
     .tarjeta.tarjeta--verde-claro.p-4.mb-5
       LineaTiempoC.color-primario(text-small)
@@ -89,11 +88,11 @@
             p Muchos estafadores intentarán seducir con la idea de ganar accesorios o tarjetas de regalo gratis si se completa una encuesta, instala una aplicación o si se comparte una publicación en una red social; mediante estas técnicas los usuarios revelan su información personal.
     .contenedor.bg--4-claro.p-5.my-5(data-aos="zoom-in-up")
         .avatar: img(src='@/assets/curso/avatar1.png', alt='Texto que describa la imagen' style='width: 582px')
-        .contenedor-img__3: img(src='@/assets/curso/61.png', alt='Texto que describa la imagen' style='width: 405px')
+        .contenedor-img__3: img(src='@/assets/curso/61.png', alt='Texto que describa la imagen' style='width: 400px')
         .row.justify-content-end
           .col-lg-8
             p.h1.fw-normal  ¿Se quiere más seguidores y “Me gusta”?   
-            p Siempre hay un precio que pagar al tratar de conseguir más seguidores o “Me gusta”. Ya sea pagando dinero para tener seguidores y/o “Me gusta” falsos, u otorgar voluntariamente los datos de la cuenta y convertirse de esta manera en un botnet social; estos esquemas no valen la pena porque ponen en riesgo la información de la cuenta.
+            p Siempre hay un precio que pagar al tratar de conseguir más seguidores o “Me gusta”. Ya sea pagando dinero para tener seguidores y/o “Me gusta” falsos, u otorgar voluntariamente los datos de la cuenta y convertirse de esta manera en un #[i botnet] social; estos esquemas no valen la pena porque ponen en riesgo la información de la cuenta.
 
 </template>
 

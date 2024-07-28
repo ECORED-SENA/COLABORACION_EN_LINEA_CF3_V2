@@ -10,7 +10,6 @@
     top: 51%
     right: 30%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -20,6 +19,12 @@
   
 .titulo-principal__numero span
   color: $color-sistema-texto
+
+.banner-principal__row .banner-principal__img
+  width: 450px
+  @media (max-width: $bp-min-xl)
+    width: 400px
+
 .bg
   &--1
     background-color: $color-primario !important
@@ -208,9 +213,9 @@ a.boton
     min-height: 240px !important
 .m-additional2
   @media (min-width: $bp-min-lg)
-    margin-top: 200px !important
+    margin-top: 13% !important
     margin-bottom: 50px !important
 .m-additional3 
   @media (min-width: $bp-min-lg)
-    margin-top: 200px !important
+    margin-top: 10% !important
     margin-bottom: 50px !important

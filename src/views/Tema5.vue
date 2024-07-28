@@ -6,50 +6,47 @@
       .titulo-principal__numero
         span 5
       h1 Perfiles empresariales y <i>fanpage</i>
-    
-    .row.mb-5
+    .row.align-items-center
       .col-lg-7(data-aos="fade-right")
         p Cuando se es comerciante o emprendedor y se desea ingresar en el mundo del #[em marketing] digital o los #[em social media] surge la pregunta: ¿cómo poder visibilizar mejor el negocio? O, #[strong ¿cómo se puede ingresar al mundo digital y aprovechar las herramientas tecnológicas actuales como las redes sociales para impulsar el crecimiento y conseguir más clientes para mis productos o servicios?]
           br
           br
-          |Es acá donde una red social como Facebook cobra gran importancia, porque en los últimos años a través de actualizaciones y mejoras constantes, ha ido dando un giro importante a su plataforma y pasó de ser una plataforma que permite la interacción y el encuentro entre familiares y amigos, a cada vez ser más usada desde el punto de vista del <i>marketing</i> digital y los <i>social media</i>.
+          | Es acá donde una red social como Facebook cobra gran importancia, porque en los últimos años a través de actualizaciones y mejoras constantes, ha ido dando un giro importante a su plataforma y pasó de ser una plataforma que permite la interacción y el encuentro entre familiares y amigos, a cada vez ser más usada desde el punto de vista del <i>marketing</i> digital y los <i>social media</i>.
       .col-lg-5(data-aos="fade-left"): img(src='@/assets/curso/96.jpg')
     .contenedor.bg--2-claro.p-5.my-5(data-aos="zoom-in-up").m-additional3
         .avatar: img(src='@/assets/curso/avatar1.png', alt='Texto que describa la imagen' style='width: 582px')
         .contenedor-img__7: img(src='@/assets/curso/97.png', alt='Texto que describa la imagen' style='width: 367px')
         .row.justify-content-end
           .col-lg-8
-            .texto.texto-adorno__9
-              p.h2.fw-normal En ese sentido, nace una pregunta: 
-                b ¿qué estrategia a partir de las herramientas y funciones que brinda la red social se debería utilizar para potencializar un negocio o empresa?
-
-    p.mb-5 Esta red social brinda la posibilidad de tener dos alternativas a utilizar, las cuales son:
+            p.h2.fw-normal En ese sentido, nace una pregunta: 
+              b ¿qué estrategia a partir de las herramientas y funciones que brinda la red social se debería utilizar para potencializar un negocio o empresa?
+    p.mb-5(data-aos="fade-right") Esta red social brinda la posibilidad de tener dos alternativas a utilizar, las cuales son:
     .row.mb-5.justify-content-center
-      .col-md-3.mb-4.mb-xl-0
+      .col-md-8.col-lg-3.mb-5.mb-lg-0(data-aos="fade-right")
         .tarjeta.tarjeta--verde-borde.p-3.h-100
           .img-hover: img(src='@/assets/curso/100.jpg')
           .contenido
             img(src='@/assets/curso/98.svg' style='width: 108px').m-auto.mb-3
             h4.text-center Perfil empresarial
             p.text-center.mb-0 Deben ser utilizados cuando se quiere seguir y conocer las novedades de los contactos.
-      .col-md-3.mb-4.mb-xl-0
+      .col-md-8.col-lg-3(data-aos="fade-left")
         .tarjeta.tarjeta--amarillo-borde.p-3.h-100
           .img-hover: img(src='@/assets/curso/101.jpg')
           .contenido
             img(src='@/assets/curso/99.svg' style='width: 108px').m-auto.mb-3
             h4.text-center <i>Fanpage</i>
             p.text-center.mb-0 Se utilizan cuando lo que se quiere es hacer <i>marketing</i> <i>online</i> y promover su negocio.
-    p.mb-5 El siguiente video nos amplía este concepto.
+    p.mb-5(data-aos="fade-right") El siguiente video nos amplía este concepto.
     figure.mb-5
-      .video
+      .video(data-aos="fade-down")
         iframe(width="560" height="315" src="https://www.youtube.com/embed/pZHQZxjkxUs?si=7primNOf_bChq-Sj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     h3(data-aos="fade-right") Diferencias entre perfiles empresariales y #[em fanpage]
-    p.mb-5 Varias redes tienen una diferenciación entre sus perfiles personales y empresariales, a continuación, se encuentra una de las redes más famosas y se evidencia con claridad esta diferenciación:
+    p.mb-5(data-aos="fade-right") Varias redes tienen una diferenciación entre sus perfiles personales y empresariales, a continuación, se encuentra una de las redes más famosas y se evidencia con claridad esta diferenciación:
     figure.mb-5
-      .video
+      .video(data-aos="fade-down")
         iframe(width="560" height="315" src="https://www.youtube.com/embed/4kcpro4ZZBk?si=nhrmDSO0AJ_FUytC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mb-5
-      .col-lg-6(data-aos='fade-right')
+      .col-lg-6.mb-5.mb-lg-0(data-aos='fade-right')
         .tarjeta.bg--4-claro.tarjeta-hover1.p-5.h-100
           .img-hover: img(src='@/assets/curso/102.svg' style='width: 350px').m-auto
           .contenido
@@ -72,10 +69,9 @@
 
             .tarjeta.tarjeta--am.p-4
               p.mb-0 Estas páginas son estupendas para generar seguidores en línea, porque no están limitadas a la cantidad de solicitudes de amistad. En cambio, los usuarios solo tienen que hacer clic en el botón “Me gusta” para comenzar a recibir las actualizaciones en su <i>feed</i> de noticias.
-    p.mb-5 Ahora, a continuar jugando.
-
-    p.mb-5 Has llegado al final de la información, es tu responsabilidad volverla conocimiento y practicar todo el tiempo, solo una cosa más nos falta:
-    .row.mb-5(data-aos="zoom-in-up").justify-content-center.align-items-center
+    p(data-aos="fade-right") Ahora, a continuar jugando.
+    p.mb-5(data-aos="fade-right") Has llegado al final de la información, es tu responsabilidad volverla conocimiento y practicar todo el tiempo, solo una cosa más nos falta:
+    .row(data-aos="zoom-in-up").justify-content-center.align-items-center
       .col-lg-10
         .fondo-boton.p-5.d-flex.justify-content-center.align-items-center
           h4.text-white.mb-0 Si descifraste la clave del reto puedes reclamar tu premio acá
