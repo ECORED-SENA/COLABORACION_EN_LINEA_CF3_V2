@@ -69,15 +69,7 @@
 
             .tarjeta.tarjeta--am.p-4
               p.mb-0 Estas páginas son estupendas para generar seguidores en línea, porque no están limitadas a la cantidad de solicitudes de amistad. En cambio, los usuarios solo tienen que hacer clic en el botón “Me gusta” para comenzar a recibir las actualizaciones en su <i>feed</i> de noticias.
-    p(data-aos="fade-right") Ahora, a continuar jugando.
-    p.mb-5(data-aos="fade-right") Has llegado al final de la información, es tu responsabilidad volverla conocimiento y practicar todo el tiempo, solo una cosa más nos falta:
-    .row(data-aos="zoom-in-up").justify-content-center.align-items-center
-      .col-lg-10
-        .fondo-boton.p-5.d-flex.justify-content-center.align-items-center
-          h4.text-white.mb-0 Si descifraste la clave del reto puedes reclamar tu premio acá
-          a.boton.color-acento-botones.ms-5(:href="obtenerLink('/downloads/premio.pdf')" target="_blank" type="application/pdf")
-            span Descargar
-            i.fas.fa-file-download
+
 
 </template>
 

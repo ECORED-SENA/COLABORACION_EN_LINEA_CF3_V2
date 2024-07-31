@@ -26,12 +26,8 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/tdEv-yO1Uvg?si=HYp5oTwAcg2Jvc1-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    p.mb-0 Facebook, que originalmente fue creada como una red para conectar personas, en la actualidad es utilizada para ofertar productos y servicios, ofrecer entretenimiento y ser un medio que facilita la publicación y contratación de oferta laboral, entre otros tantos usos.
-      br
-      br
-      |Se invita a revisar su conocimiento acerca de estas redes. 
-      b ¿Qué se debe hacer? 
-      |Llegar al final del siguiente video para encontrar una clave secreta.
+    p Facebook, que originalmente fue creada como una red para conectar personas, en la actualidad es utilizada para ofertar productos y servicios, ofrecer entretenimiento y ser un medio que facilita la publicación y contratación de oferta laboral, entre otros tantos usos.
+
     Separador
     #t_1_2
     .titulo-segundo(data-aos='fade-right')
@@ -263,9 +259,7 @@
               img(src='@/assets/curso/35.svg', alt='Texto que describa la imagen' style='width: 77px').mb-3
               p.text-white Instagram es una plataforma diseñada para compartir fotos y videos.
     p Por lo que se debe analizar muy bien cuál o cuáles serán las redes a utilizar y el propósito de su utilización, para determinar si contar o no con perfiles públicos o privados. Cada red social ha logrado hacer su propia identidad e identificar a sus usuarios de gran forma.
-      br
-      br
-      |Ya se debe tener una palabra clave como mínimo para el premio, ahora continúe en su rol de investigador:
+
     Separador
     #t_1_4
     .titulo-segundo(data-aos='fade-right')
