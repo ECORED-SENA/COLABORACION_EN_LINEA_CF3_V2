@@ -108,33 +108,13 @@
             p.mb-0 Al momento de crear una cuenta o registrarse en una red social, se debe tener claro cuál o cuáles de las opciones expuestas serán los propósitos de uso. Como se mencionó anteriormente, se debe tener en cuenta que una misma red puede ser utilizada para uno o varios de los propósitos antes mencionados y que la información estará a la distancia de un clic si se hace pública, porque la responsabilidad de hacer o no su información pública es solo del usuario, por ello se debe pensar bien y hacerlo con responsabilidad. Hay un dicho especial para este caso: 
             b “subir una información a la red es muy fácil, pero descargarlo o hacerlo desaparecer es casi imposible”.
     p.mb-5 Para fortalecer el concepto y las competencias digitales, se hace necesario realizar la siguiente lectura de forma activa y crítica logrando entender el punto del autor Octavio Islas (2019) en el documento <i>La importancia que hoy y mañana admiten las redes sociales virtuales</i>, para crear su propio punto de vista al respecto en los tres momentos que trabaja la lectura. 
-      br
-      br
-      |El ingreso al documento es el siguiente:
-    .tarjeta.tarjeta--gris.px-4(data-aos="zoom-in-up")
-      .row
-        .col-lg-4: img(src='@/assets/curso/17.png' style="width: 400px").m-auto
-        .col-lg-8.py-5
-          ol.lista-ol--cuadro
-            li.d-flex
-              .lista-ol--cuadro__vineta
-                span 1
-              | Hacer clic en el enlace de la parte inferior.
-            li.d-flex
-              .lista-ol--cuadro__vineta
-                span 2
-              | Ingresar con su usuario y clave, que para el caso de la comunidad SENA, es el número del documento sin puntos en el usuario y lo mismo para la contraseña.
-            li.d-flex
-              .lista-ol--cuadro__vineta
-                span 3
-              | Ir al documento y leer el resumen en el idioma de preferencia.
-            li.d-flex
-              .lista-ol--cuadro__vineta
-                span 4
-              | Elegir la opción “Texto completo en PDF” para visualizar y dar trámite a la lectura completa del documento. 
-          a.boton.color-acento-botones(href="https://search-ebscohost-com.bdigital.sena.edu.co/login.aspx?direct=true&db=zah&AN=141302017&lang=es&site=ehost-live" target="_blank")
-            span Enlace
-            i.rounded-1.p-2.fas.fa-link
+
+    .row.justify-content-center.text-center 
+      .col
+        a.boton.color-acento-botones(href="https://www.researchgate.net/publication/338606848_La_importancia_que_hoy_y_manana_admiten_las_redes_sociales_virtuales" target="_blank")
+          span Ver documento
+          i.rounded-1.p-2.fas.fa-link 
+
     Separador
     #t_1_3
     .titulo-segundo(data-aos='fade-right')
